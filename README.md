@@ -1,4 +1,4 @@
-- TAREAS
+- TAREA DISTRIBUIDOS
 
 Algoritmo que usa recursividad para evaluar y graficar ecuaciones de una sola variable ( X )
 
